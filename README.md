@@ -1,5 +1,6 @@
 - 👋 Hi, I’m mani
 - 💻 Full stack Web Developer
+- 🕸 You can see my portfolio on :
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Web and application developments projects
 - 📫 You can reach me at : mani6985akbary@gmail.com
