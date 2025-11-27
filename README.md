@@ -1,9 +1,20 @@
 - 👋 Hi, I’m Mani – a passionate Full Stack Web Developer and AI enthusiast
-- 💻 Skilled in: Flutter, MAUI, HTML, CSS, JavaScript, React, Flask, Django, DRF, OpenAI tools, Python scripting, SQL Server, Machine Vision, Data Science, Laravel, Express
-- 🚀 Experienced in working with: i4twins, ABAOne
-- 🌱 Currently exploring AI and building innovative tools with AI models
-- 🏗 Founder of two startups (learning from failures and growing stronger!)
-- 🎯 My goal: Constantly improving and turning my active income into passive income
+- 💻 Skills & Expertise:
+  - **Frontend & Mobile:** Flutter, MAUI, HTML, CSS, JavaScript, React
+  - **Backend & APIs:** Flask, Django, DRF, Laravel, Express
+  - **AI & Data:** OpenAI tools, Machine Vision, Data Science
+  - **Other:** Python scripting, SQL Server
+- 🚀 Experience:
+  - Worked at: i4twins, ABAOne
+  - Founder of two startups (learning from failures and growing stronger!)
+- 🧩 Work Philosophy:
+  - I’m motivated by projects that **actually work** – technology doesn’t matter, **functionality does**.
+  - Strong in **backend logic and AI problem-solving**
+  - Learned that the best way to grow is to **rely on myself**
+- 🎯 My Goal: Constantly improving and turning my active income into passive income
+- 🛠 Currently working on building **AI tools and innovative applications**
+- 🤝 Collaboration:
+  - I take my work seriously and expect collaborators to take their responsibilities seriously too
 - 🕸 Portfolio & Resume: [Add your links here](https://)
-- 💞️ Open to collaboration on web & app development projects
 - 📫 Reach me at: mani6985akbary@gmail.com
+- 🌱 Always exploring and pushing for **personal and professional growth**
