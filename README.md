@@ -35,14 +35,14 @@ I’ve built and launched startups, automated production planning systems, and c
 
 > 👇 **Fill this section yourself** – copy the table below and add your actual project names, descriptions, and links.
 
-```markdown
+
 | Project Name | Short Description | Links |
 |--------------|-------------------|-------|
 | **[Shopman – AI Support Agent]** | RAG-powered support for online shops | [🔗 Demo](PUT_DEMO_LINK_HERE) \| [📂 Code](PUT_GITHUB_LINK_HERE) |
 | **[Production Planning Automation]** | Smart scheduling & bottleneck detection | [📂 Code](PUT_GITHUB_LINK_HERE) |
 | **[Startup MVP: NAME]** | From 0 to 1 full‑stack + AI | [🌐 Live Site](PUT_SITE_LINK_HERE) \| [📂 Code](PUT_GITHUB_LINK_HERE) |
 | **[Your Fourth Project]** | Short description | [🔗 Link]() |
-```
+
 
 ✅ *Every public repo includes a full README + video walkthrough.*
 
