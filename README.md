@@ -25,6 +25,24 @@ I've built and launched startups, automated production planning systems, and cre
 
 ---
 
+## 💼 Work Experience
+
+### 📌 Senior AI & Backend Developer – **ABAOne** (Full‑time)
+*Duration: [e.g., 2025 – 2026]*
+
+- Developed **Contract Management System** on **Microsoft SQL Server** with secure, scalable architecture
+- Designed **AI‑driven Production Planning System** – automated scheduling, bottleneck detection, and optimization using ML models
+- Built **intelligent 3D model generator** from 2D AutoCAD floor plans using Python scripts and geometric processing libraries
+
+### 📌 Digital Twin Trainee (Part‑time) – **i4Twin**
+*Duration: [e.g., 2023 – 2024]*
+
+- Worked on **Industrial Digital Twin** concepts – production line simulation and sensor data analysis
+- Explored **RAG & fine‑tuning** of language models for engineering data
+- Developed prototype tools connecting physical and digital worlds using Python & WebSockets
+
+---
+
 ## ⚙️ My Core Stack
 
 | Domain          | Technologies |
@@ -106,4 +124,7 @@ I've built and launched startups, automated production planning systems, and cre
 
 ---
 
-*Last updated: May 2025*
+*Last updated: May 2026*
+
+GitHub: [github.com/maniUZqqz](https://github.com/maniUZqqz)
+
