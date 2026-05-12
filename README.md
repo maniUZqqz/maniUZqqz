@@ -18,10 +18,10 @@ I’ve built and launched startups, automated production planning systems, and c
 
 ---
 
-## ⚙️ My Core Stack (what I love & master)
+## ⚙️ My Core Stack
 
-| Domain          | Technologies (with ❤️) |
-|----------------|------------------------|
+| Domain          | Technologies |
+|----------------|--------------|
 | **Frontend**    | React (main), Next.js, Tailwind, Bootstrap |
 | **Backend**     | Django + DRF (main), FastAPI, Flask, Express |
 | **Database**    | Microsoft SQL Server (main), PostgreSQL, SQLite |
@@ -29,24 +29,22 @@ I’ve built and launched startups, automated production planning systems, and c
 | **Real‑time**   | WebSockets, Django Channels |
 | **Other**       | Python scripting, Docker, Git, RESTful design |
 
-> I can work with other stacks too – but React + Django REST + MSSQL is where I shine the brightest.
-
 ---
 
-## 🧠 Featured Projects (that I’m proud of)
+## 📌 Real Projects (with live links – replace with your own)
 
-### 🛍️ Shopman – AI Support Agent for Online Shops
-A complete support automation system that handles customer inquiries, order tracking, and returns – powered by **RAG + custom AI Agents**.  
-📦 *Live demo & video inside the repo.*
+> 👇 **Fill this section yourself** – copy the table below and add your actual project names, descriptions, and links.
 
-### 📅 Production Planning Automation
-A smart system that automates manufacturing schedules, resource allocation, and bottleneck detection.  
-⚙️ *Saves hours of manual work every day.*
+```markdown
+| Project Name | Short Description | Links |
+|--------------|-------------------|-------|
+| **[Shopman – AI Support Agent]** | RAG-powered support for online shops | [🔗 Demo](PUT_DEMO_LINK_HERE) \| [📂 Code](PUT_GITHUB_LINK_HERE) |
+| **[Production Planning Automation]** | Smart scheduling & bottleneck detection | [📂 Code](PUT_GITHUB_LINK_HERE) |
+| **[Startup MVP: NAME]** | From 0 to 1 full‑stack + AI | [🌐 Live Site](PUT_SITE_LINK_HERE) \| [📂 Code](PUT_GITHUB_LINK_HERE) |
+| **[Your Fourth Project]** | Short description | [🔗 Link]() |
+```
 
-### 🚀 Various Startup MVPs
-From idea to deployment – I’ve built the entire backend, frontend, and AI integration for several early‑stage startups.
-
-🔗 *Every project repo has a full README + video + documentation.*
+✅ *Every public repo includes a full README + video walkthrough.*
 
 ---
 
@@ -58,20 +56,18 @@ From idea to deployment – I’ve built the entire backend, frontend, and AI in
 ✅ **Debugging & Performance** – I find hidden bugs and make your code run faster  
 ✅ **Technical Consulting** – choose the right stack, avoid costly mistakes
 
-> No complex wild scripts – just solid, maintainable, professional software that works.
+---
+
+## 🌟 Why Me?
+
+- **Speed without cutting corners** – fast but never sloppy.  
+- **Obsessive debugging** – I find the root cause.  
+- **0 → 100 ownership** – frontend, backend, AI, deployment, docs.  
+- **Clean architecture** – code that doesn’t become a nightmare.
 
 ---
 
-## 🌟 Why Me? (What makes me different)
-
-- **Speed without cutting corners** – I deliver fast, but never sloppy.  
-- **Obsessive debugging** – I don’t stop until I understand *why* something broke.  
-- **0 → 100 ownership** – frontend, backend, AI, deployment, documentation.  
-- **Clean architecture** – code that doesn’t become a nightmare after 3 months.
-
----
-
-## 📊 GitHub Stats (still growing)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amirrk2025&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -83,19 +79,16 @@ From idea to deployment – I’ve built the entire backend, frontend, and AI in
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirrk2025&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=amirrk2025&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🌐 Let’s Connect
+## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/your-handle)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@your-channel)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+📧 Email: **mani6985akbary@gmail.com**  
 
-📧 Email me directly: **mani6985akbary@gmail.com**
+*(LinkedIn, X, YouTube, Instagram – available upon request)*
 
 ---
 
@@ -103,21 +96,8 @@ From idea to deployment – I’ve built the entire backend, frontend, and AI in
 
 > *“Technology is just a tool. Functionality is what pays the bills. I build things that actually work – and I launch them before overthinking kills them.”*
 
-💡 Always open for **freelance projects**, **startup collaborations**, or just a technical chat.
+💡 Open for **freelance projects**, **startup collaborations**, or a technical chat.
 
 ---
 
-## 🔗 پروژه‌های واقعی – با دمو و کد
-
-| نام پروژه | توضیحات کوتاه | لینک‌ها |
-|-----------|---------------|---------|
-| **[Shopman – AI Support Agent]** | پشتیبانی هوشمند فروشگاهی با RAG و Agent | [🔗 دمو](لینک-دمو) \| [📂 کد](لینک-گیت‌هاب) |
-| **[Production Planning Automation]** | اتوماسیون برنامه‌ریزی تولید و تشخیص گلوگاه | [📂 کد](لینک-گیت‌هاب) |
-| **[Startup MVP: نام استارتاپ]** | توضیح مشکل و راه‌حل | [🌐 سایت زنده](لینک-سایت) \| [📂 کد](لینک-گیت‌هاب) |
-| **[پروژه چهارم]** | توضیح مختصر | [🔗 لینک]() |
-
-> ✅ همه ریپوها دارای `README` کامل + ویدیوی معرفی هستند. برای مشاهده کلیک کن.
-
----
-
-*Last updated: May 2026 – built with real experience, not just buzzwords.*
+*Last updated: May 2026*
