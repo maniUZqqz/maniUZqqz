@@ -1,19 +1,26 @@
 <div align="center">
   <h1>🚀 Mani | Launch Engineer & AI Full‑Stack Architect</h1>
   <p>
-    <em>I don’t just write code – I <strong>launch software that thinks</strong>.</em>
+    <em>I don't just write code – I <strong>launch software that thinks</strong>.</em>
   </p>
+  
+  <!-- جایگزین ایمن برای Typing SVG که ممکن است در برخی شبکه‌ها لود نشود -->
   <p>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C9F45&center=true&vCenter=true&width=435&lines=Full‑stack+%2B+AI+Agent+Builder;Startup+Launcher+from+0+to+1;RAG+%7C+Vector+DBs+%7C+WebSockets;React+%7C+Django+REST+%7C+MSSQL" alt="Typing SVG" />
   </p>
+  <!-- در صورت لود نشدن SVG، این متن ساده پایین آن دیده می‌شود -->
+  <details>
+    <summary>⚡ تایپینگ انیمیشن لود نشد؟ اینجا کلیک کن</summary>
+    <code>Full‑stack + AI Agent Builder | Startup Launcher | RAG | React + Django + MSSQL</code>
+  </details>
 </div>
 
 ## 👨‍💻 Who am I?
 
-I’m a **Launch Engineer** – someone who takes an idea (even if it's just a scribble) and turns it into a **live, working, AI‑powered software**.  
-I’ve built and launched startups, automated production planning systems, and created AI support agents that actually help online shops.
+I'm a **Launch Engineer** – someone who takes an idea (even if it's just a scribble) and turns it into a **live, working, AI‑powered software**.  
+I've built and launched startups, automated production planning systems, and created AI support agents that actually help online shops.
 
-🔹 **Freelancer?** You need a full‑stack + AI expert who delivers fast, debugs like a detective, and writes architecture you won’t be ashamed of.  
+🔹 **Freelancer?** You need a full‑stack + AI expert who delivers fast, debugs like a detective, and writes architecture you won't be ashamed of.  
 🔹 **Startup founder?** I speak your language. I know what it means to go from zero to deployed, without bullshit.
 
 ---
@@ -33,37 +40,32 @@ I’ve built and launched startups, automated production planning systems, and c
 
 ## 📌 Real Projects (with live links – replace with your own)
 
-> 👇 **Fill this section yourself** – copy the table below and add your actual project names, descriptions, and links.
-
-
 | Project Name | Short Description | Links |
 |--------------|-------------------|-------|
 | **[Shopman – AI Support Agent]** | RAG-powered support for online shops | [🔗 Demo](PUT_DEMO_LINK_HERE) \| [📂 Code](PUT_GITHUB_LINK_HERE) |
 | **[Production Planning Automation]** | Smart scheduling & bottleneck detection | [📂 Code](PUT_GITHUB_LINK_HERE) |
 | **[Startup MVP: NAME]** | From 0 to 1 full‑stack + AI | [🌐 Live Site](PUT_SITE_LINK_HERE) \| [📂 Code](PUT_GITHUB_LINK_HERE) |
-| **[Your Fourth Project]** | Short description | [🔗 Link]() |
-
 
 ✅ *Every public repo includes a full README + video walkthrough.*
 
 ---
 
-## 🎯 What I Offer (Freelance & Contract)
+## 🎯 What I Offer
 
 ✅ **Launch an MVP** – from zero to deployed (domain + server + AI features)  
-✅ **AI Integration** – add ChatGPT‑like agents, RAG search, or custom ML to your existing app  
+✅ **AI Integration** – add ChatGPT‑like agents, RAG search, or custom ML  
 ✅ **Full‑stack Development** – React + Django REST + MSSQL, clean architecture  
-✅ **Debugging & Performance** – I find hidden bugs and make your code run faster  
-✅ **Technical Consulting** – choose the right stack, avoid costly mistakes
+✅ **Debugging & Performance** – find hidden bugs and make code faster  
+✅ **Technical Consulting** – avoid costly mistakes
 
 ---
 
 ## 🌟 Why Me?
 
-- **Speed without cutting corners** – fast but never sloppy.  
-- **Obsessive debugging** – I find the root cause.  
-- **0 → 100 ownership** – frontend, backend, AI, deployment, docs.  
-- **Clean architecture** – code that doesn’t become a nightmare.
+- **Speed without cutting corners** – fast but never sloppy  
+- **Obsessive debugging** – I find the root cause  
+- **0 → 100 ownership** – frontend, backend, AI, deployment, docs  
+- **Clean architecture** – code that doesn't become a nightmare
 
 ---
 
@@ -84,11 +86,15 @@ I’ve built and launched startups, automated production planning systems, and c
 
 ---
 
-## 📬 Contact
+## 🌐 Connect with me (real links)
 
-📧 Email: **mani6985akbary@gmail.com**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_HANDLE)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_X_HANDLE)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR_CHANNEL)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_HANDLE)
 
-*(LinkedIn, X, YouTube, Instagram – available upon request)*
+📧 **Email:** `mani6985akbary@gmail.com`  
+*(If you need a faster reply, use email – I respond within 24h)*
 
 ---
 
@@ -100,4 +106,4 @@ I’ve built and launched startups, automated production planning systems, and c
 
 ---
 
-*Last updated: May 2026*
+*Last updated: May 2025*
