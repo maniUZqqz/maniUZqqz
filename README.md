@@ -70,16 +70,16 @@ I’ve built and launched startups, automated production planning systems, and c
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrk2025&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirrk2025&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maniUZqqz&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maniUZqqz&theme=radical&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirrk2025&layout=compact&theme=radical&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maniUZqqz&layout=compact&theme=radical&hide_border=true" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amirrk2025&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=maniUZqqz&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
